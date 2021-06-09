@@ -1,4 +1,4 @@
-### Hi there 👋
+### small project 👋
 
 <!--
 **Mostafa-eltalawy/Mostafa-Eltalawy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
